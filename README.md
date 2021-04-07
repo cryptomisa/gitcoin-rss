@@ -1,4 +1,4 @@
-# Unofficial Gitcoin Rss Feed
+# Unofficial Cryptomisa Rss Feed
 
 feed link-> [https://s3-us-west-2.amazonaws.com/gitcoin-rss/feed.rss](https://s3-us-west-2.amazonaws.com/gitcoin-rss/feed.rss)
 
