@@ -1,4 +1,4 @@
-# Unofficial Cryptomisa Rss Feed
+# Unofficial Czarcoin Rss Feed
 
 feed link-> [https://s3-us-west-2.amazonaws.com/gitcoin-rss/feed.rss](https://s3-us-west-2.amazonaws.com/gitcoin-rss/feed.rss)
 
